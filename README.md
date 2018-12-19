@@ -1,2 +1,2 @@
 # stmuart
-This repository is about program for stm32f4 controller to communicate with bluetooth module.
+This repository is about the program for STM32f401RE controller to communicate via uart.
